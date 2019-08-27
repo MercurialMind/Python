@@ -8,19 +8,7 @@
 <!--[![Tested on Python 3.7](https://img.shields.io/badge/Tested%20-Python%203.7-blue.svg?logo=python&style=flat-square)]( https://www.python.org/downloads) &nbsp;-->
 ### All algorithms implemented in Python (for education)
 
-These implementations are for learning purposes. They may be less efficient than the implementations in the Python standard library.
 
-## Owners
-
-Anup Kumar Panwar
-&nbsp; [[Gmail](mailto:1anuppanwar@gmail.com?Subject=The%20Algorithms%20-%20Python)
-&nbsp; [GitHub](https://github.com/anupkumarpanwar)
-&nbsp; [LinkedIn](https://www.linkedin.com/in/anupkumarpanwar/)]
-
-Chetan Kaushik
-&nbsp; [[Gmail](mailto:dynamitechetan@gmail.com?Subject=The%20Algorithms%20-%20Python)
-&nbsp; [GitHub](https://github.com/dynamitechetan)
-&nbsp; [LinkedIn](https://www.linkedin.com/in/chetankaushik/)]
 
 ## Contribution Guidelines
 
